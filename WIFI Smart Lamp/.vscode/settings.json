@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "light.h": "c",
+        "tlink.h": "c",
+        "delay.h": "c",
+        "stm32f10x_flash.h": "c",
+        "flashdata.h": "c",
+        "oled.h": "c",
+        "uart.h": "c"
+    }
+}
